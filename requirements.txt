@@ -22,4 +22,4 @@ openai==1.0.0
 azure-ai==1.0.0
 azure-identity==1.0.0
 langchain-openai==0.0.148
-pydantic==2.10.2    
+pydantic==2.10.2
